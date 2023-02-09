@@ -4,6 +4,9 @@
 - [x] final
 - [x] abstract
 - [x] equals
+- [ ] conditions [ if, else if, else, switch]
+- [ ] functions
+- [ ] data types
 - [ ] interface
 - [ ] instanceof
 - [ ] java math
